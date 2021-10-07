@@ -1,6 +1,6 @@
 # Java Servlet Web Applicaiton
 
- This web application is designed for Inventory Management with Hibernate.
+ This web application is designed as an inventory management system for trading companies.
 
 ## Login Info
 
