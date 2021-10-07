@@ -6,7 +6,7 @@
 
 | Username | Password |
 | ------------- |:-------------:|
-| oguz@mail.com | 12345 |
+| admin@mail.com | 12345 |
 
 ## Languages Used
 
